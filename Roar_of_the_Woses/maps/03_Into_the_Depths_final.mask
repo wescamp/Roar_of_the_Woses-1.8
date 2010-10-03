@@ -1,0 +1,23 @@
+border_size=0
+usage=mask
+
+Qxu    , _f     , Qxu    , Qxu    , Qxu    , Qxu    , Qxu    , Qxu    , Xu     , Xu     , Qxu    , Qxu    , Qxu    , Xu     , Xu     , Xu
+_f     , Qxu    , Qxu    , Qxu    , Xu     , Qxu    , Qxu    , Uu     , Xu     , Xu     , Uu     , Uu     , Uu     , Uu     , Xu     , Xu
+Qxu    , Qxu    , Xu     , Cud    , Cud    , Cud    , Xu     , Uu     , Uh     , Uu     , Uu     , Xu     , Uh     , Uu     , Xu     , Xu
+Qxu    , Xu     , Xu     , Cud    , Kud    , Cud    , Uu     , Uu     , Uu     , Uu     , Uu     , Uu     , Uu     , Uu     , Uh     , Xu
+Qxu    , _f     , Xu     , Uu     , Cud    , Ur     , Uu     , Uu     , Uu     , Qxu    , Uu     , Uu     , Uu^Vud , Uu     , Uu     , Qxu
+_f     , _f     , Xu     , Xu     , Uu     , Uu     , Ur     , Ur     , Uu^Uf  , Qxu    , Qxu    , Qxu    , Uu     , Qxu    , Qxu    , Xu
+_f     , _f     , _f     , Uu     , Uu     , Qxu    , Uu^Vud , Qxu    , Qxu^Bs\, Ur     , Qxu    , Uu     , Qxu    , Qxu    , Uu     , Xu
+Uu     , Uu     , Uu     , _f     , _f     , Qxu    , Qxu    , Uu     , Uu     , Ur     , Uu     , Uu     , Uu     , Uu     , Uu     , Xu
+Uu     , Uu^Vud , Uu     , Uu     , Uu     , Uu     , Qxu    , Qxu    , Uu     , _f     , Ur     , Uu     , Uu     , Uu     , Uu     , Xu
+_f     , _f     , Uu     , Uu^Uf  , Uu     , Uu^Uf  , Qxu^Bs\, Uu     , Uu     , Uu     , Ur     , Ur     , Uu     , Uu^Vud , Uu^Uf  , Xu
+_f     , Uu     , Uu     , _f     , Uu^Uf  , Qxu    , Qxu    , Uu     , Uu     , Uu     , Uu     , Ur     , Uh     , Uh     , Xu     , Xu
+_f     , Uu     , Uu     , Uu     , Qxu    , Qxu    , Uu     , Uu     , Uu^Vud , Uh     , Uu     , Ur     , Uh     , Xu     , Xu     , Xu
+Uu     , Uu     , _f     , _f     , Qxu    , Uu     , Uu     , Uh     , Uh     , Uh     , Ur     , Uu     , Uu     , Uh     , Xu     , Xu
+_f     , _f     , Uu     , Uu^Vud , Qxu    , Uu     , Uu     , Uu     , Uh     , Uu     , Ur     , Ur     , Uu     , Uu^Vud , Xu     , Xu
+_f     , Uh     , Uu     , Uu     , Qxu    , Qxu^Bs/, Uu     , Uu     , Uu     , Uu     , Uu     , Cud    , Uu     , Uh     , Uh     , Xu
+_f     , Uu     , Uu     , Uu     , Uu     , Qxu    , Uu     , Uu^Vud , Uu     , Uu     , Cud    , Kud    , Cud    , Uh     , Uh     , Xu
+Uu     , Uu     , Uu     , Qxu    , Qxu    , Uh     , Uu     , Uu^Uf  , Uu^Uf  , Uu     , Cud    , Cud    , Cud    , Uu     , Uh     , Xu
+Uu     , Uu     , _f     , Qxu    , Xu     , Xu     , Uu     , Uu     , Uu^Uf  , Uu^Uf  , Uu     , Uh     , Uu     , Uu     , Uu^Vud , Xu
+Uu     , _f     , _f     , _f     , Qxu    , Xu     , Xu     , Uu     , Uu     , Uh     , Uh     , Uh     , Uh     , Xu     , Xu     , Xu
+_f     , _f     , _f     , Qxu    , Qxu    , Qxu    , Xu     , Xu     , Uu     , Xu     , Uh     , Xu     , Uh     , Xu     , Xu     , Xu
